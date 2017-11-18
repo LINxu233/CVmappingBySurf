@@ -1,0 +1,37 @@
+=pod
+
+    Following in the steps of other open source projects that
+    eventually take over the world, here is the partial list
+    of people who have contributed to this project and its 
+    supporting works.  It is sorted by name and formatted to 
+    allow easy grepping and beautification by scripts.
+    The fields are: name (N), email (E), web-address (W),
+    description (D), subversion username (U) and snail-mail
+    address (S).
+
+        Thanks,
+
+        John Harrison and frineds?
+        PS: Yes, I copied this from the Rakudo project
+        PPS: Yes, this looks remarkably like the Linux CREDITS format
+        PPPS: This file is encoded in UTF-8
+
+----------
+
+N: John Harrison
+E: harrij3@auburn.edu
+E: ash@greaterthaninfinity.com
+W: greaterthaninfinity.com
+
+
+
+Acknowledgements:
+
+Adapted from "find_obj" OpenCV demo by:
+
+  A Demo to OpenCV Implementation of SURF
+  Further Information Refer to "SURF: Speed-Up Robust Feature"
+  Author: Liu Liu
+  liuliu.1987+opencv@gmail.com
+
+

@@ -1,0 +1,19 @@
+=head1 OpenCV Mapping System
+
+The current goal of this project is to have a set of robots that have an
+ad hoc wireless mesh network, for research purposes at Auburn University.
+Professor Biaz is conducting research on mesh networking systems. To make
+his life easier, he has enlisted my help with programming a set of robots
+that he can use for broadcasting his mesh network. 
+
+A current need for the system is a localization system for navigation 
+inside the building we are working in. Utilizing OpenCV and web cameras
+mounted on the robots, I plan on creating a SLAM system that uses maps of
+the ceiling of our building for navigation purposes. With an upwards
+facing camera, and a map of the ceiling I should be able to use OpenCV to 
+locate where the robots are on the map.
+
+Right now, I am working on a proof of concept, if this works, I'll update
+this and move on to maybe a more general library. 
+
+
